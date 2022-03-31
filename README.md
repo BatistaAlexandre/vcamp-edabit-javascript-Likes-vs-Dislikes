@@ -1,4 +1,4 @@
 
-![image](https://user-images.githubusercontent.com/89105629/160955009-220e52b0-f8fc-47fa-8cd2-6ae3b1fac1b1.png)
+![image](https://user-images.githubusercontent.com/89105629/160958955-805ca88b-ec7f-45e7-9c33-eaef0e7269be.png)
 
 Endereço do desafio: https://edabit.com/challenge/MNKfYEKghbKjxYbzb
