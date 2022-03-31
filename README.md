@@ -1,5 +1,5 @@
 Captura dos testes:
 
-![image](https://user-images.githubusercontent.com/89105629/160958955-805ca88b-ec7f-45e7-9c33-eaef0e7269be.png)
+![image](https://user-images.githubusercontent.com/89105629/161075562-e8352793-ccf5-4b2e-8ad3-cca160772ec4.png)
 
 Endereço do desafio: https://edabit.com/challenge/MNKfYEKghbKjxYbzb
